@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SIGFREDNK
-- 👀 I’m interested in making my own and other peoples lives more satisfying and meaningful.
+- 👀 I’m interested in making my own and other peoples lives more satisfying and meaningful through pursuing difficult but meaning goals.
 - 🌱 I’m currently learning Node Js to pursue this goal.
 - 💞️ I’m looking to collaborate on creating software, which change the life of the end-user for the better.
-- 📫 You can contact me by mail on sigfred@virkefeltet.dk
+- 📫 You can contact me by mail on sigfred@virketrang.com
 - 🇩🇰 I’m from Denmark
 
 <!---
